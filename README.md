@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @canhaktan
 - 👀 I’m interested in programming and chess
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Lichess = @Paranoyak
-- 😄 Pronouns: ...
+- 🌱 I’m 2nd year software engineering student at Yaşar University, in Izmir, Turkiye.
+- 💞️ I’m looking to learn new things as always, it is the part of the journey.
+- 📫 How to reach me? My lichess account is @Paranoyak , you can drop me message there :)
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a FIDE Master (FM) at chess. 2300+ FIDE.
 
 <!---
